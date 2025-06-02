@@ -1,19 +1,18 @@
 # Notebooks
 
-This directory houses all the Jupyter notebooks developed for the "Sentiment Analysis of News Headlines for Price Forecasting" project. These notebooks provide a step-by-step walkthrough of the data analysis, model development, and experimentation processes.
+This directory houses all the Jupyter notebooks developed for the "Sentiment Analysis of News Headlines for Price Forecasting" project. These notebooks provide a step-by-step walkthrough of the data analysis.
 
 ---
 
 ## Notebooks Included 
 
-### 1. `Sentiment Analysis.ipynb` and 'Quantivative Analysis'
+### 1. `Sentiment Analysis.ipynb` and `Quantivative Analysis.ipynb`
 
 This is the primary notebook for developing and evaluating our sentiment analysis model. It covers:
-
 * **Data Loading:** How financial news headlines and associated labels are loaded.
 * **Exploratory Data Analysis (EDA):** Initial exploration of the dataset, including sentiment distribution, text length analysis, and identifying potential data issues. 
 * **Sentiment Over Time Analysis:** Visualizing how news sentiment evolves over different periods.
-* **Price Data Exploration:** Analyzing price trends, volatility, and key financial indicators.
+* **Price Data Exploration:** Analyzing price trends, and key financial indicators.
 
 ### 2. `Correlation.ipynb` (Coming Soon!)
 ---
